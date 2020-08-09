@@ -5,4 +5,6 @@ func main() {
 	println("second commit")
 	println("third commit")
 	println("branch hello")
+	println("branch hello2")
+
 }
